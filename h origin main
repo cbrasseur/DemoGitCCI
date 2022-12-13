@@ -1,0 +1,13 @@
+* [33m0f909ca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/feature/login[m[33m, [m[1;32mfeature/login[m[33m)[m ✨ Add login method
+[31m|[m  file1.md | Bin [31m16[m -> [32m16[m bytes
+[31m|[m  1 file changed, 0 insertions(+), 0 deletions(-)
+* [33m35014f7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m ✨ Add file 1.md
+[31m|[m  README.md | 1 [32m+[m
+[31m|[m  1 file changed, 1 insertion(+)
+* [33m9eb234e[m ✨ Add file 1.md
+[31m|[m  file1.md | Bin [31m0[m -> [32m16[m bytes
+[31m|[m  1 file changed, 0 insertions(+), 0 deletions(-)
+* [33m6270e41[m Initial commit
+   .gitignore | 23 [32m+++++++++++++++++++++++[m
+   README.md  |  2 [32m++[m
+   2 files changed, 25 insertions(+)
